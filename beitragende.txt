@@ -8,5 +8,6 @@ Hier haben alle mitgewirkt, die zu diesem Projekt beigetragen haben:
 - David Schuchert (DBE-Academy Team)
 - Marie G. (DBE-Academy Team) 
 - Julian Schmitt (Git-Neuling)
+- Claudia L. (Git-Lehrling)
 
 [Füge hier deinen Namen hinzu, wenn du das Repository geklont hast und ein Rezept hinzugefügt hast!]
